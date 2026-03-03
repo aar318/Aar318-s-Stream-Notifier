@@ -1,7 +1,8 @@
 # Aar318’s Stream Notifier v3.33.1.0
 
-<div style="margin-bottom: 20px;">
+<div style="display: flex; gap: 12px; margin-bottom: 20px;">
 
+  <!-- StreamElements Donate -->
   <a href="https://streamelements.com/hor318/tip" target="_blank"
      style="
        display: inline-block;
@@ -16,7 +17,14 @@
      "
      onmouseenter="this.style.transform='scale(1.15)'"
      onmouseleave="this.style.transform='scale(1)'">
-    ☕ Donate
+    ☕ Donate (StreamElements)
+  </a>
+
+  <!-- Ko-fi Button (GitHub-safe image version) -->
+  <a href="https://ko-fi.com/M4M81VBQPJ" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3"
+         alt="Buy Me a Coffee at ko-fi.com"
+         style="height: 42px; border-radius: 6px;">
   </a>
 
 </div>
