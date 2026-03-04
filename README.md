@@ -38,8 +38,6 @@ Stream Notifier is a lightweight, floating utility that lets you monitor the liv
 
 ## 🚀 Install the Extension
 
-**Chrome Web Store:**  
-
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/gcefcahooahpacecifgnolkeboopndck.svg)](https://chrome.google.com/webstore/detail/violentmonkey/gcefcahooahpacecifgnolkeboopndck)
 
 
